@@ -29,7 +29,7 @@ google-chrome index.html
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Sumit Chauhan**
 
 * LinkedIn: [@sumit-chauhan-24702627a](https://linkedin.com/in/sumit-chauhan-24702627a)
 * GitHub: [@Sumitchauhan0](https://github.com/Sumitchauhan0)
