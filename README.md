@@ -15,7 +15,7 @@ google-chrome index.html
 ## Introduction
 
 <p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/Sumitchauhan0/tic-tac-toe/main/Screenshot/1.jpg" width="800">
+    <img alt="Screenshot" src="https://github.com/Sumitchauhan0/Tic-Tac-Toe/blob/main/Screenshot/1.png" width="800">
 </p>
 
 
